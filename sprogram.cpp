@@ -6,4 +6,6 @@ int main()
 	cout<<"value="<<a;
 	cout<<"hello world";
 	cout<<"how are you";
+	cout<<"how do you do";
+	cout<<"you never know";
 }
